@@ -1,4 +1,4 @@
-# boucingBalls
+# bouncingBalls
 
 A test project which creates 20 balls at random positions within a 300x500 box on the browser, with random color and bouncing around.
 
